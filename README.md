@@ -91,4 +91,4 @@ Integration tests for the database are gated behind `NEUROCHECKER_TEST_DSN`.
   "counts": { "nodes": 100, "edges": 99, "endpoints": 12, "branchpoints": 6, "isolated": 1 }
 }
 ```
-# NeuroChecker
+
